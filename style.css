@@ -18,6 +18,16 @@
     align-items: center;
 }
 
+.rodape {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    width: 35%;
+    margin: 0 auto;
+    justify-content: space-between;
+   
+}
+
 .instagram-wrapper {
     display: flex;
     align-items: center;

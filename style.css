@@ -24,10 +24,12 @@
     list-style: none;
     width: 35%;
     margin: 0 auto;
-    justify-content: space-between;
-   
+    justify-content: space-evenly;
 }
 
+.rodape li {
+    text-decoration: none;
+}
 .instagram-wrapper {
     display: flex;
     align-items: center;
